@@ -1,7 +1,7 @@
 
 ## Introduction
 
-Greetings, my name is **Saleh Adel**, also known as **Artacker**. Today, I am excited to present my solution to the **Custom Communication** CTF cryptography challenge, which was featured in the prestigious Cyber Security Competition (CSC-2024) at the 8th International Competition of the Military Technical College (ICMTC 2024).
+Greetings, my name is **Saleh Adel**, aka **Artacker**. Today, I am excited to present my solution to the **Custom Communication** CTF cryptography challenge, which was featured in the prestigious Cyber Security Competition (CSC-2024) at the 8th International Competition of the Military Technical College (ICMTC 2024).
 
 ## Challenge Description
 We've implemented a secure system for communication. Attackers can't get our messages now.
